@@ -105,3 +105,6 @@ dist
 
 # FlexBot ignores
 auth.json
+
+#packages
+package-lock.json
